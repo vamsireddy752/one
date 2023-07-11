@@ -5,6 +5,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
 	<h1 style="color: PURPLE; font-size: 40px;" align="center">HI EVERYONE</h1>
+	<h1 style="color: PURPLE; font-size: 40px;" align="center">HOW ARE YOU</h1>
 	
 
 
